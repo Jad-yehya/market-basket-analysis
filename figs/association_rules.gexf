@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-06-12">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="('really', 'fun', 'well', 'maybe')" label="('really', 'fun', 'well', 'maybe')" />
+      <node id="one" label="one" />
+      <node id="('really', 'fun', 'well', 'maybe', 'good')" label="('really', 'fun', 'well', 'maybe', 'good')" />
+      <node id="('going', 'really', 'hard', 'water')" label="('going', 'really', 'hard', 'water')" />
+      <node id="get" label="get" />
+      <node id="('really', 'well', 'maybe', 'one')" label="('really', 'well', 'maybe', 'one')" />
+      <node id="good" label="good" />
+      <node id="('really', 'tour', 'needed', 'one', 'great')" label="('really', 'tour', 'needed', 'one', 'great')" />
+      <node id="us" label="us" />
+      <node id="('really', 'fun', 'well', 'maybe', 'one')" label="('really', 'fun', 'well', 'maybe', 'one')" />
+      <node id="('experience', 'order', 'usually', 'good')" label="('experience', 'order', 'usually', 'good')" />
+      <node id="food" label="food" />
+      <node id="('experience', 'order', 'good')" label="('experience', 'order', 'good')" />
+      <node id="('really', 'well', 'maybe')" label="('really', 'well', 'maybe')" />
+      <node id="('menu', 'next', 'lots')" label="('menu', 'next', 'lots')" />
+      <node id="('really', 'tour', 'needed', 'great')" label="('really', 'tour', 'needed', 'great')" />
+      <node id="('fun', 'well', 'maybe', 'good')" label="('fun', 'well', 'maybe', 'good')" />
+      <node id="('really', 'maybe', 'one')" label="('really', 'maybe', 'one')" />
+      <node id="('experience', 'order', 'usually')" label="('experience', 'order', 'usually')" />
+      <node id="('tour', 'needed', 'one', 'great')" label="('tour', 'needed', 'one', 'great')" />
+      <node id="('fun', 'well', 'maybe', 'one')" label="('fun', 'well', 'maybe', 'one')" />
+      <node id="('fun', 'well', 'maybe')" label="('fun', 'well', 'maybe')" />
+      <node id="('fun', 'well', 'maybe', 'one', 'good')" label="('fun', 'well', 'maybe', 'one', 'good')" />
+      <node id="really" label="really" />
+      <node id="('tour', 'needed', 'great')" label="('tour', 'needed', 'great')" />
+      <node id="('going', 'hard', 'water')" label="('going', 'hard', 'water')" />
+      <node id="('really', 'order', 'maybe', 'go')" label="('really', 'order', 'maybe', 'go')" />
+      <node id="back" label="back" />
+      <node id="('experience', 'order', 'food', 'usually')" label="('experience', 'order', 'food', 'usually')" />
+      <node id="('well', 'maybe', 'one')" label="('well', 'maybe', 'one')" />
+      <node id="('order', 'usually', 'good')" label="('order', 'usually', 'good')" />
+      <node id="('going', 'really', 'water')" label="('going', 'really', 'water')" />
+      <node id="('really', 'maybe')" label="('really', 'maybe')" />
+      <node id="('really', 'fun', 'maybe', 'one')" label="('really', 'fun', 'maybe', 'one')" />
+      <node id="('really', 'fun', 'well', 'one')" label="('really', 'fun', 'well', 'one')" />
+      <node id="('really', 'fun', 'maybe')" label="('really', 'fun', 'maybe')" />
+      <node id="('time', 'come', 'many', 'good')" label="('time', 'come', 'many', 'good')" />
+      <node id="like" label="like" />
+      <node id="('experience', 'order')" label="('experience', 'order')" />
+      <node id="('experience', 'food', 'usually')" label="('experience', 'food', 'usually')" />
+      <node id="('really', 'well', 'maybe', 'good')" label="('really', 'well', 'maybe', 'good')" />
+      <node id="('really', 'us', 'tour', 'needed', 'great')" label="('really', 'us', 'tour', 'needed', 'great')" />
+      <node id="('order', 'good')" label="('order', 'good')" />
+      <node id="('going', 'really', 'hard')" label="('going', 'really', 'hard')" />
+      <node id="('need', 'clean', 'even', 'work')" label="('need', 'clean', 'even', 'work')" />
+      <node id="('really', 'well', 'one')" label="('really', 'well', 'one')" />
+      <node id="('menu', 'lots')" label="('menu', 'lots')" />
+      <node id="('really', 'order', 'maybe', 'back')" label="('really', 'order', 'maybe', 'back')" />
+      <node id="go" label="go" />
+      <node id="('well', 'maybe')" label="('well', 'maybe')" />
+      <node id="('really', 'fun', 'maybe', 'good')" label="('really', 'fun', 'maybe', 'good')" />
+      <node id="('order', 'food', 'usually')" label="('order', 'food', 'usually')" />
+      <node id="('really', 'tour', 'needed', 'one')" label="('really', 'tour', 'needed', 'one')" />
+      <node id="('really', 'us', 'tour', 'needed')" label="('really', 'us', 'tour', 'needed')" />
+      <node id="('food', 'usually')" label="('food', 'usually')" />
+      <node id="('fun', 'maybe', 'one')" label="('fun', 'maybe', 'one')" />
+      <node id="('order', 'maybe', 'go')" label="('order', 'maybe', 'go')" />
+      <node id="('really', 'maybe', 'go')" label="('really', 'maybe', 'go')" />
+      <node id="('menu', 'next')" label="('menu', 'next')" />
+      <node id="('fun', 'maybe', 'one', 'good')" label="('fun', 'maybe', 'one', 'good')" />
+      <node id="('really', 'us', 'needed')" label="('really', 'us', 'needed')" />
+      <node id="('really', 'fun', 'well')" label="('really', 'fun', 'well')" />
+      <node id="('order', 'usually')" label="('order', 'usually')" />
+      <node id="('time', 'come', 'like', 'many')" label="('time', 'come', 'like', 'many')" />
+      <node id="('going', 'get', 'hard', 'water')" label="('going', 'get', 'hard', 'water')" />
+      <node id="('experience', 'usually', 'good')" label="('experience', 'usually', 'good')" />
+      <node id="('really', 'well')" label="('really', 'well')" />
+      <node id="('really', 'hard', 'water')" label="('really', 'hard', 'water')" />
+      <node id="('well', 'maybe', 'good')" label="('well', 'maybe', 'good')" />
+      <node id="('really', 'us', 'needed', 'great')" label="('really', 'us', 'needed', 'great')" />
+      <node id="('really', 'tour', 'needed')" label="('really', 'tour', 'needed')" />
+      <node id="('order', 'maybe', 'back')" label="('order', 'maybe', 'back')" />
+      <node id="('come', 'like', 'many', 'good')" label="('come', 'like', 'many', 'good')" />
+      <node id="time" label="time" />
+      <node id="('maybe', 'one')" label="('maybe', 'one')" />
+      <node id="('come', 'like', 'many')" label="('come', 'like', 'many')" />
+      <node id="('come', 'many', 'good')" label="('come', 'many', 'good')" />
+      <node id="('next', 'lots')" label="('next', 'lots')" />
+      <node id="('long', 'diner')" label="('long', 'diner')" />
+      <node id="('really', 'fun', 'one')" label="('really', 'fun', 'one')" />
+      <node id="('really', 'one')" label="('really', 'one')" />
+      <node id="('time', 'come', 'many')" label="('time', 'come', 'many')" />
+      <node id="('need', 'clean', 'even')" label="('need', 'clean', 'even')" />
+      <node id="('fun', 'maybe')" label="('fun', 'maybe')" />
+      <node id="('need', 'even', 'work')" label="('need', 'even', 'work')" />
+      <node id="('tour', 'needed', 'one')" label="('tour', 'needed', 'one')" />
+      <node id="('really', 'fun', 'well', 'good')" label="('really', 'fun', 'well', 'good')" />
+      <node id="('experience', 'order', 'food')" label="('experience', 'order', 'food')" />
+      <node id="('usually', 'good')" label="('usually', 'good')" />
+      <node id="('well', 'maybe', 'one', 'good')" label="('well', 'maybe', 'one', 'good')" />
+      <node id="('us', 'tour', 'needed')" label="('us', 'tour', 'needed')" />
+      <node id="('fun', 'maybe', 'good')" label="('fun', 'maybe', 'good')" />
+      <node id="('going', 'water')" label="('going', 'water')" />
+      <node id="('time', 'like', 'many')" label="('time', 'like', 'many')" />
+      <node id="('clean', 'even', 'work')" label="('clean', 'even', 'work')" />
+      <node id="('fun', 'well', 'one')" label="('fun', 'well', 'one')" />
+      <node id="('going', 'hard')" label="('going', 'hard')" />
+    </nodes>
+    <edges>
+      <edge source="('really', 'fun', 'well', 'maybe')" target="one" id="0" weight="0.7048458149779736" />
+      <edge source="('really', 'fun', 'well', 'maybe')" target="good" id="1" weight="0.6740088105726874" />
+      <edge source="('really', 'fun', 'well', 'maybe', 'good')" target="one" id="2" weight="0.6993464052287581" />
+      <edge source="('going', 'really', 'hard', 'water')" target="get" id="3" weight="0.6971428571428571" />
+      <edge source="('really', 'well', 'maybe', 'one')" target="good" id="4" weight="0.6845238095238094" />
+      <edge source="('really', 'tour', 'needed', 'one', 'great')" target="us" id="5" weight="0.6842105263157895" />
+      <edge source="('really', 'fun', 'well', 'maybe', 'one')" target="good" id="6" weight="0.66875" />
+      <edge source="('experience', 'order', 'usually', 'good')" target="food" id="7" weight="0.6660194174757281" />
+      <edge source="('experience', 'order', 'good')" target="food" id="8" weight="0.6657228514323784" />
+      <edge source="('really', 'well', 'maybe')" target="good" id="9" weight="0.663586584531143" />
+      <edge source="('really', 'well', 'maybe')" target="one" id="10" weight="0.5749486652977412" />
+      <edge source="('menu', 'next', 'lots')" target="good" id="11" weight="0.6555323590814196" />
+      <edge source="('really', 'tour', 'needed', 'great')" target="us" id="12" weight="0.6470588235294118" />
+      <edge source="('really', 'tour', 'needed', 'great')" target="one" id="13" weight="0.5588235294117647" />
+      <edge source="('fun', 'well', 'maybe', 'good')" target="one" id="14" weight="0.6466165413533835" />
+      <edge source="('fun', 'well', 'maybe', 'good')" target="really" id="15" weight="0.5751879699248121" />
+      <edge source="('really', 'maybe', 'one')" target="good" id="16" weight="0.6349307774227901" />
+      <edge source="('experience', 'order', 'usually')" target="food" id="17" weight="0.6311010215664018" />
+      <edge source="('experience', 'order', 'usually')" target="good" id="18" weight="0.5845629965947787" />
+      <edge source="('tour', 'needed', 'one', 'great')" target="us" id="19" weight="0.6304347826086957" />
+      <edge source="('fun', 'well', 'maybe', 'one')" target="good" id="20" weight="0.6254545454545455" />
+      <edge source="('fun', 'well', 'maybe', 'one')" target="really" id="21" weight="0.5818181818181818" />
+      <edge source="('fun', 'well', 'maybe')" target="one" id="22" weight="0.625" />
+      <edge source="('fun', 'well', 'maybe')" target="good" id="23" weight="0.6045454545454545" />
+      <edge source="('fun', 'well', 'maybe')" target="really" id="24" weight="0.5159090909090909" />
+      <edge source="('fun', 'well', 'maybe', 'one', 'good')" target="really" id="25" weight="0.6220930232558138" />
+      <edge source="('tour', 'needed', 'great')" target="us" id="26" weight="0.6210526315789474" />
+      <edge source="('going', 'hard', 'water')" target="get" id="27" weight="0.6201117318435755" />
+      <edge source="('really', 'order', 'maybe', 'go')" target="back" id="28" weight="0.617467248908297" />
+      <edge source="('experience', 'order', 'food', 'usually')" target="good" id="29" weight="0.6169064748201439" />
+      <edge source="('well', 'maybe', 'one')" target="good" id="30" weight="0.6155561750766657" />
+      <edge source="('order', 'usually', 'good')" target="food" id="31" weight="0.6150726596823252" />
+      <edge source="('going', 'really', 'water')" target="get" id="32" weight="0.6107954545454546" />
+      <edge source="('really', 'maybe')" target="good" id="33" weight="0.6057810578105781" />
+      <edge source="('really', 'fun', 'maybe', 'one')" target="good" id="34" weight="0.6042780748663101" />
+      <edge source="('really', 'fun', 'well', 'one')" target="good" id="35" weight="0.6042677012609118" />
+      <edge source="('really', 'fun', 'maybe')" target="good" id="36" weight="0.5984848484848485" />
+      <edge source="('really', 'fun', 'maybe')" target="one" id="37" weight="0.5666666666666667" />
+      <edge source="('time', 'come', 'many', 'good')" target="like" id="38" weight="0.5966822187662001" />
+      <edge source="('experience', 'order')" target="food" id="39" weight="0.5953775279144218" />
+      <edge source="('experience', 'food', 'usually')" target="good" id="40" weight="0.5941676792223574" />
+      <edge source="('really', 'well', 'maybe', 'good')" target="one" id="41" weight="0.593089221248066" />
+      <edge source="('really', 'us', 'tour', 'needed', 'great')" target="one" id="42" weight="0.5909090909090908" />
+      <edge source="('order', 'good')" target="food" id="43" weight="0.5902957145116231" />
+      <edge source="('going', 'really', 'hard')" target="get" id="44" weight="0.5882016036655211" />
+      <edge source="('need', 'clean', 'even', 'work')" target="like" id="45" weight="0.5880149812734082" />
+      <edge source="('really', 'well', 'one')" target="good" id="46" weight="0.5819157720891825" />
+      <edge source="('menu', 'lots')" target="good" id="47" weight="0.5751538236155874" />
+      <edge source="('really', 'order', 'maybe', 'back')" target="go" id="48" weight="0.5724696356275304" />
+      <edge source="('well', 'maybe')" target="good" id="49" weight="0.5723377174374205" />
+      <edge source="('really', 'fun', 'maybe', 'good')" target="one" id="50" weight="0.5721518987341773" />
+      <edge source="('order', 'food', 'usually')" target="good" id="51" weight="0.569283703472005" />
+      <edge source="('really', 'tour', 'needed', 'one')" target="us" id="52" weight="0.5652173913043478" />
+      <edge source="('really', 'us', 'tour', 'needed')" target="one" id="53" weight="0.5652173913043478" />
+      <edge source="('food', 'usually')" target="good" id="54" weight="0.5605901868342937" />
+      <edge source="('fun', 'maybe', 'one')" target="good" id="55" weight="0.559065934065934" />
+      <edge source="('fun', 'maybe', 'one')" target="really" id="56" weight="0.5137362637362637" />
+      <edge source="('order', 'maybe', 'go')" target="back" id="57" weight="0.5584077380952381" />
+      <edge source="('really', 'maybe', 'go')" target="back" id="58" weight="0.5578534031413613" />
+      <edge source="('menu', 'next')" target="good" id="59" weight="0.5570627802690583" />
+      <edge source="('fun', 'maybe', 'one', 'good')" target="really" id="60" weight="0.5552825552825553" />
+      <edge source="('really', 'us', 'needed')" target="one" id="61" weight="0.5523763336566441" />
+      <edge source="('really', 'fun', 'well')" target="good" id="62" weight="0.5522388059701492" />
+      <edge source="('order', 'usually')" target="food" id="63" weight="0.5521588946459413" />
+      <edge source="('order', 'usually')" target="good" id="64" weight="0.5110535405872193" />
+      <edge source="('time', 'come', 'like', 'many')" target="good" id="65" weight="0.5507177033492823" />
+      <edge source="('going', 'get', 'hard', 'water')" target="really" id="66" weight="0.5495495495495495" />
+      <edge source="('experience', 'usually', 'good')" target="food" id="67" weight="0.5488215488215489" />
+      <edge source="('really', 'well')" target="good" id="68" weight="0.5481043620057072" />
+      <edge source="('really', 'hard', 'water')" target="get" id="69" weight="0.5479876160990712" />
+      <edge source="('well', 'maybe', 'good')" target="one" id="70" weight="0.5455893254262416" />
+      <edge source="('really', 'us', 'needed', 'great')" target="one" id="71" weight="0.5429815016322089" />
+      <edge source="('really', 'tour', 'needed')" target="us" id="72" weight="0.5411764705882353" />
+      <edge source="('really', 'tour', 'needed')" target="one" id="73" weight="0.5411764705882353" />
+      <edge source="('order', 'maybe', 'back')" target="go" id="74" weight="0.541095890410959" />
+      <edge source="('come', 'like', 'many', 'good')" target="time" id="75" weight="0.5398686679174484" />
+      <edge source="('maybe', 'one')" target="good" id="76" weight="0.5374098931145911" />
+      <edge source="('come', 'like', 'many')" target="good" id="77" weight="0.5350062735257214" />
+      <edge source="('come', 'like', 'many')" target="time" id="78" weight="0.5244667503136763" />
+      <edge source="('come', 'many', 'good')" target="like" id="79" weight="0.5344697919278015" />
+      <edge source="('next', 'lots')" target="good" id="80" weight="0.5343092406221409" />
+      <edge source="('long', 'diner')" target="good" id="81" weight="0.5318352059925093" />
+      <edge source="('really', 'fun', 'one')" target="good" id="82" weight="0.5313510019392372" />
+      <edge source="('really', 'one')" target="good" id="83" weight="0.5304890643288275" />
+      <edge source="('time', 'come', 'many')" target="like" id="84" weight="0.5299188640973631" />
+      <edge source="('need', 'clean', 'even')" target="like" id="85" weight="0.5296762589928058" />
+      <edge source="('fun', 'maybe')" target="good" id="86" weight="0.5290148448043186" />
+      <edge source="('need', 'even', 'work')" target="like" id="87" weight="0.5286532951289398" />
+      <edge source="('tour', 'needed', 'one')" target="us" id="88" weight="0.5284552845528456" />
+      <edge source="('really', 'fun', 'well', 'good')" target="one" id="89" weight="0.5261824324324325" />
+      <edge source="('experience', 'order', 'food')" target="good" id="90" weight="0.5241967213114754" />
+      <edge source="('usually', 'good')" target="food" id="91" weight="0.5225423177083334" />
+      <edge source="('well', 'maybe', 'one', 'good')" target="really" id="92" weight="0.5208333333333333" />
+      <edge source="('us', 'tour', 'needed')" target="one" id="93" weight="0.52" />
+      <edge source="('fun', 'maybe', 'good')" target="one" id="94" weight="0.5191326530612244" />
+      <edge source="('going', 'water')" target="get" id="95" weight="0.5159251769464105" />
+      <edge source="('time', 'like', 'many')" target="good" id="96" weight="0.5146148129799356" />
+      <edge source="('clean', 'even', 'work')" target="like" id="97" weight="0.5144927536231884" />
+      <edge source="('fun', 'well', 'one')" target="good" id="98" weight="0.5125523012552301" />
+      <edge source="('going', 'hard')" target="get" id="99" weight="0.5110294117647058" />
+    </edges>
+  </graph>
+</gexf>
