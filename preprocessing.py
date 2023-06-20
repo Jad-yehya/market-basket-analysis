@@ -47,7 +47,7 @@ if __name__ == '__main__':
     chunks = pd.read_json('./market-basket-analysis/yelp_academic_dataset_review.json', lines=True, chunksize=chunk_size)
 
     # Determine the number of CPU cores available
-    num_cores = cpu_count() - 4
+    num_cores = cpu_count()//2
 
     # Create a pool of processes
     pool = Pool(num_cores)
