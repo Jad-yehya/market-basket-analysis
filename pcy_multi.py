@@ -115,8 +115,8 @@ def PCY(transactions, min_support, hash_table_size, chunk_size):
     args = [(chunk, frequent_single_items, hash_table_size) for chunk in chunks]
 
     # Create a pool of worker processes
-    print("Number of worker processes: ", cpu_count()//2)
-    pool = Pool(cpu_count()//2)
+    print("Number of worker processes: ", cpu_count())
+    pool = Pool(cpu_count())
 
     # Map phase with progress bar
     mapped_data = list(tqdm(pool.imap(mapper, args), total=len(args), desc="Mapping"))
@@ -133,9 +133,8 @@ def PCY(transactions, min_support, hash_table_size, chunk_size):
 
 if __name__ == '__main__':
     transactions = []
-    with open('transactions.txt', 'r') as f:
-        for line in f:
-            transactions.append(line.split())
+    with open('transactions.pkl', 'rb') as f:
+        transactions = pkl.load(f)
     
     print("Number of transactions: ", len(transactions))
 
