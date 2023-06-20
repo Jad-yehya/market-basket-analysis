@@ -1,14 +1,15 @@
 import pandas as pd
 import re
+import nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
-from nltk.stem import PorterStemmer
+# from nltk.stem import PorterStemmer
 from multiprocessing import Pool, freeze_support, cpu_count
 from tqdm import tqdm
 import pickle as pkl
 
 # Text preprocessing
 stop_words = set(stopwords.words('english'))
-stemmer = PorterStemmer()
 
 def preprocess_text(text):
     # Remove special characters and convert to lowercase
@@ -43,7 +44,7 @@ if __name__ == '__main__':
     chunk_size = 10000
 
     # Load the dataset in chunks
-    chunks = pd.read_json('yelp_academic_dataset_review.json', lines=True, chunksize=chunk_size)
+    chunks = pd.read_json('./market-basket-analysis/yelp_academic_dataset_review.json', lines=True, chunksize=chunk_size)
 
     # Determine the number of CPU cores available
     num_cores = cpu_count() - 4
