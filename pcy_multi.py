@@ -137,6 +137,8 @@ if __name__ == '__main__':
         transactions = pkl.load(f)
     
     print("Number of transactions: ", len(transactions))
+    transactions = transactions[:500000]
+    print("Using only first 500000 transactions")
 
     min_support = 10000
     hash_table_size = 1000
@@ -144,7 +146,7 @@ if __name__ == '__main__':
 
     # Metrics for performance evaluation
     times = []
-    sizes = [1000, 10000, 100000, 200000, len(transactions)]
+    sizes = [1000, 10000, 100000, 200000]
     
     for size in sizes:
         print("Bucket size: ", size)
